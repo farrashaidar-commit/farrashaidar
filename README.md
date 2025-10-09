@@ -1,5 +1,5 @@
 # farrashaidar
-<h2 align="left">Hi 👋! My name is ... and I'm a ..., from ....</h2>
+<h2 align="left">Hi 👋! My name is M.Haidar Farras Albar Ramadani and I'm a a student at Amikom University Yogyakarta, from ....</h2>
 
 ###
 
