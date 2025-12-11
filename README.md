@@ -1,5 +1,16 @@
 # farrashaidar
-<h2 align="left">Hi 👋! My name is M.Haidar Farras Albar Ramadani and I'm a a student at Amikom University Yogyakarta, from ....</h2>
+<h2 align="left">🌟 About Me
+
+Haiii 👋 Aku seorang mahasiswa S1 Informatika di Universitas Amikom Yogyakarta yang juga menjalani kehidupan sebagai santri di Rumah Tahfidz Nurul Huda, Yogyakarta 🕌💻
+
+Aku suka banget desain, karena bagiku setiap goresan dan warna itu punya cerita tersendiri 🎨
+Kalau nggak lagi ngulik kode, biasanya aku ngisi waktu dengan baca novel 📚, nonton film 🎬, atau main game 🎮 buat nyari inspirasi dan hiburan.
+
+Aku percaya kalau belajar teknologi itu nggak cuma soal logika, tapi juga soal rasa dan makna — makanya aku suka menyeimbangkan dunia digital dengan nilai-nilai spiritual 🌙💡
+
+💬 Favorite Quote
+
+“Code your dreams, design your path, and let your faith be the compiler of your life.” ✨</h2>
 
 ###
 
